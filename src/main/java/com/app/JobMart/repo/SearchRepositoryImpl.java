@@ -3,7 +3,6 @@ package com.app.JobMart.repo;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import com.mongodb.client.AggregateIterable;
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
